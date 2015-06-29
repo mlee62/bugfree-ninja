@@ -1,2 +1,1 @@
-# bugfree-ninja
-test
+this is a test
